@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/wnkim/workspace/scala-workspace/HelloScala/src/main/resources/out,/Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/out)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/wnkim/workspace/scala-workspace/HelloScala/src/main/resources/out/_SUCCESS,/Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/out/_SUCCESS)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/wnkim/workspace/scala-workspace/HelloScala/src/main/resources/out/part-00000,/Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/out/part-00000)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/wnkim/workspace/scala-workspace/HelloScala/src/main/resources/shakespeare.txt,/Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/shakespeare.txt)[0m

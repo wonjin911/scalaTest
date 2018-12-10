@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/helloscala_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	out/_SUCCESS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/out/_SUCCESS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shakespeare.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/shakespeare.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyPackage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/MyPackage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyPackage/HelloScalaLocal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/MyPackage/HelloScalaLocal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyPackage/HelloScala$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/MyPackage/HelloScala$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyPackage/HelloScalaLocal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/MyPackage/HelloScalaLocal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyPackage/HelloScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/MyPackage/HelloScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	out/part-00000[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wnkim/workspace/scala-workspace/HelloScala/target/scala-2.12/classes/out/part-00000[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
